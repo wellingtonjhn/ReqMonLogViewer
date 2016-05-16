@@ -1,0 +1,8 @@
+D:\SRC\TFS\wellingtonjhn\Diversos\ReqMonLogViewer\ReqMonLogViewer.Win\bin\Debug\ReqMonLogViewer.Win.exe
+D:\SRC\TFS\wellingtonjhn\Diversos\ReqMonLogViewer\ReqMonLogViewer.Win\bin\Debug\ReqMonLogViewer.Win.pdb
+D:\SRC\TFS\wellingtonjhn\Diversos\ReqMonLogViewer\ReqMonLogViewer.Win\obj\x86\Debug\ReqMonLogViewer.Win.csprojResolveAssemblyReference.cache
+D:\SRC\TFS\wellingtonjhn\Diversos\ReqMonLogViewer\ReqMonLogViewer.Win\obj\x86\Debug\ReqMonLogViewer.Win.frmIISReqMonParser.resources
+D:\SRC\TFS\wellingtonjhn\Diversos\ReqMonLogViewer\ReqMonLogViewer.Win\obj\x86\Debug\ReqMonLogViewer.Win.Properties.Resources.resources
+D:\SRC\TFS\wellingtonjhn\Diversos\ReqMonLogViewer\ReqMonLogViewer.Win\obj\x86\Debug\ReqMonLogViewer.Win.csproj.GenerateResource.Cache
+D:\SRC\TFS\wellingtonjhn\Diversos\ReqMonLogViewer\ReqMonLogViewer.Win\obj\x86\Debug\ReqMonLogViewer.Win.exe
+D:\SRC\TFS\wellingtonjhn\Diversos\ReqMonLogViewer\ReqMonLogViewer.Win\obj\x86\Debug\ReqMonLogViewer.Win.pdb
